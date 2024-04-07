@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Intelligent System Engineering research team at Queen Mary, under the guidance of [Dr. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen).
 - 🌱 My research is centered around designing meta-heuristic algorithms for solving combinatorial optimization problems.
-- 👯 ’m looking to collaborate with businesses in the logistics and transportation sector. Together, we aim to develop solutions that can effectively reduce ecological footprints and operational costs within the industry.
+- 👯 I’m looking to collaborate with businesses in the logistics and transportation sector. Together, we aim to develop solutions that can effectively reduce ecological footprints and operational costs within the industry.
 - 💬 Feel free to explore our website: [Intelligent Systems Engineering at QMUL](https://www.qmul.ac.uk/intelligentsystems/).
 - 🤔 I love outdoor activities, so feel free to invite me whenever you have plans.
 
