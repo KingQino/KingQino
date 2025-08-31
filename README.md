@@ -4,7 +4,6 @@
 - 🌱 My research is centered around designing meta-heuristic algorithms for solving combinatorial optimization problems, like Electric Vehicle Routing Problem (EVRP), Hybrid Riders Meal Delivery Routing Problem with Time Windows (HRMDRPTW).
 - 👯 I’m looking to collaborate with businesses in the logistics and transportation sector. Together, we aim to develop solutions that can practically reduce ecological footprints and operational costs within the industry.
 - 💬 Feel free to explore our website: [Intelligent Systems Engineering at QMUL](https://www.qmul.ac.uk/intelligentsystems/).
-- 🤔 I love outdoor activities, so feel free to invite me whenever you have plans.
 
 
 <!--
