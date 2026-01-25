@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Intelligent System Engineering research team at Queen Mary, under the supervision of [Dr. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen) and [Dr. Xinwei Wang](https://www.sems.qmul.ac.uk/staff/x.wang/).
-- 🌱 My research is centered around designing meta-heuristic algorithms for solving combinatorial optimization problems, like Electric Vehicle Routing Problem (EVRP), Hybrid Riders Meal Delivery Routing Problem with Time Windows (HRMDRPTW).
-- 👯 I’m looking to collaborate with businesses in the logistics and transportation sector. Together, we aim to develop solutions that can practically reduce ecological footprints and operational costs within the industry.
-- 💬 Feel free to explore our website: [Intelligent Systems Engineering at QMUL](https://www.qmul.ac.uk/intelligentsystems/).
+- 🔭 I’m currently working with the **Intelligent Systems Engineering research team** at **Queen Mary University of London**, under the supervision of **[Prof. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen)** and **[Dr. Xinwei Wang](https://www.sems.qmul.ac.uk/staff/x.wang/)**.
+- 🌱 I work on **combinatorial optimisation**, with a focus on **bilevel optimisation** and **graph-based modelling** (single- and multi-graph formulations), and on designing **meta-heuristic algorithms** spanning **single-point** and **population-based** methods, with interests in **hyperparameter tuning**. Applications include routing and delivery problems such as **E-CVRP** and **HRMDRPTW**.
+- 🤔 I’m also interested in applying **reinforcement learning** and **machine learning** techniques to **traditional combinatorial optimisation** methods (**AI for Science**), for example, in **operator selection** within meta-heuristics, i.e., **hyper-heuristics**, which can be formulated as a **Markov Decision Process (MDP)** and enhanced via **online learning** to enable **adaptive search**.
+- 👯 I’m looking to collaborate with **businesses in the logistics and transportation sector**, aiming to develop solutions that can **practically reduce ecological footprints and operational costs**.
+- 📫 Feel free to explore our website: [Intelligent Systems Engineering at QMUL](https://www.qmul.ac.uk/intelligentsystems/).
 
 
 <!--
