@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with the **Intelligent Systems Engineering** research team at **Queen Mary University of London**, under the supervision of **[Prof. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen)** and **[Dr. Xinwei Wang](https://www.sems.qmul.ac.uk/staff/x.wang/)**.
-- 🌱 I work on **combinatorial optimisation**, with a focus on **bilevel optimisation** and **graph-based modelling** (single- and multi-graph formulations), and on designing **meta-heuristic algorithms** spanning **single-point** and **population-based** methods, with interests in **hyperparameter tuning**. Applications include routing and delivery problems such as **E-CVRP** and HRMDRPTW.
-- 🤔 I’m also interested in applying **reinforcement learning** and **machine learning** techniques to **traditional combinatorial optimisation** methods (**AI for Science**), for example, in **operator selection** within meta-heuristics, i.e., **hyper-heuristics**, which can be formulated as a **Markov Decision Process (MDP)** and enhanced via **online learning** to enable **adaptive search**.
-- 👯 I’m looking to collaborate with businesses in the logistics and transportation sector, aiming to develop solutions that can practically **reduce ecological footprints and operational costs**.
-- 📫 Feel free to explore our website: [Intelligent Systems Engineering at QMUL](https://www.qmul.ac.uk/intelligentsystems/).
+- 🔭 I’m a PhD candidate at **Queen Mary University of London**, working with **[Prof. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen)** and **[Dr. Xinwei Wang](https://www.sems.qmul.ac.uk/staff/x.wang/)** in Intelligent Systems Engineering.
+- 🌱 My research focuses on **combinatorial optimisation**, particularly **bilevel optimisation**, **metaheuristics**, and **hyper-heuristics**. I develop both **trajectory-based** and **population-based** search algorithms for complex optimisation problems arising in logistics and transportation, including the **Electric Capacitated Vehicle Routing Problem (E-CVRP)**.
+- 🤖 I am interested in integrating **machine learning** and **reinforcement learning** with optimisation algorithms, including **adaptive operator selection**, **instance-aware algorithm configuration**, and **learning-guided search** for combinatorial optimisation.
+- 🚚 My work aims to bridge the gap between optimisation theory and real-world applications, with a particular focus on **sustainable transportation**, **routing**, and **logistics systems**.
+- 👯 I am always interested in collaborating with researchers and industry partners working on optimisation, transportation, logistics, and AI for Science.
+- 📫 Learn more about our research group: [Intelligent Systems Engineering at QMUL](https://www.qmul.ac.uk/intelligentsystems/).
 
 
 <!--
