@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a PhD candidate at **Queen Mary University of London**, working with **[Prof. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen)** and **[Dr. Xinwei Wang](https://www.sems.qmul.ac.uk/staff/x.wang/)** in Intelligent Systems Engineering.
-- 🌱 My research focuses on **combinatorial optimisation**, particularly **bilevel optimisation**, **metaheuristics**, and **hyper-heuristics**. I develop both **trajectory-based** and **population-based** search algorithms for complex optimisation problems arising in logistics and transportation, including the **Electric Capacitated Vehicle Routing Problem (E-CVRP)**.
+- 🌱 My research focuses on **combinatorial optimisation**, **metaheuristics**. I develop both **single-point** and **population-based** search algorithms for complex optimisation problems arising in logistics and transportation, including the **Electric Capacitated Vehicle Routing Problem (E-CVRP)**.
 - 🤖 I am interested in integrating **machine learning** and **reinforcement learning** with optimisation algorithms, including **adaptive operator selection**, **instance-aware algorithm configuration**, and **learning-guided search** for combinatorial optimisation.
 - 🚚 My work aims to bridge the gap between optimisation theory and real-world applications, with a particular focus on **sustainable transportation**, **routing**, and **logistics systems**.
 - 👯 I am always interested in collaborating with researchers and industry partners working on optimisation, transportation, logistics, and AI for Science.
