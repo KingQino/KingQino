@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm a PhD candidate at **Queen Mary University of London**, working with **[Prof. Jun Chen](https://www.sems.qmul.ac.uk/staff/jun.chen)** and **[Dr. Xinwei Wang](https://www.sems.qmul.ac.uk/staff/x.wang/)** in [Intelligent Systems Engineering](https://www.qmul.ac.uk/intelligentsystems/).
-
 - 🌱 My research focuses on **optimization** and **learning-assisted search**, with an emphasis on developing efficient and adaptive heuristic algorithms for complex problems. My PhD research investigates the **Electric Capacitated Vehicle Routing Problem (E-CVRP)**, using bilevel optimization to formulate and decompose the problem, developing single-solution-based and population-based search algorithms, and integrating offline and online learning to further improve search performance. I have also worked on **expensive mixed-variable optimization** and explored **fitness landscape analysis** to better understand and guide heuristic search.
-
 - 🧠 My background includes **machine learning, computer vision, and data mining**, along with industry experience in **backend software development** at **Sina Weibo**, involving Java, databases, and rule engines.
-
 - 🤝 I am interested in opportunities and collaborations involving **AI, machine learning, optimization, and software engineering**.
 
 <!--
